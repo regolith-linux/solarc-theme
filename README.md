@@ -20,7 +20,7 @@ Most of the work is done inside [solarize.sh](https://github.com/apheleia/solarc
 
 ## Requirements
 * Gnome/GTK3 3.14 - 3.22
-* The `gnome-themes-standard` package
+* The `gnome-themes-extra` package
 * The murrine engine. This has different names depending on your distro.
   * `gtk-engine-murrine` (Arch Linux)
   * `gtk2-engines-murrine` (Debian, Ubuntu, elementary OS)

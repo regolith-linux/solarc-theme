@@ -10,6 +10,6 @@ Homepage: https://github.com/schemar/solarc-theme
 
 Package: solarc-theme
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, gnome-themes-standard, gtk2-engines-murrine, 
+Depends: ${shlibs:Depends}, ${misc:Depends}, gnome-themes-extra, gtk2-engines-murrine, 
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
