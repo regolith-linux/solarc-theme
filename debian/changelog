@@ -1,3 +1,10 @@
+solarc-theme (800c997-5) focal; urgency=medium
+
+  [ Khosrow Moossavi ]
+  * feat: use build-only to test pull request
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 14 Oct 2025 01:15:25 +0000
+
 solarc-theme (800c997-4) focal; urgency=medium
 
   [ Khosrow Moossavi ]
